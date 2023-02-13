@@ -14,16 +14,16 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
         
         python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
 
-**NB:** For MacOs users, please install `Xcode` if you have an issue.
+    **NB:** For MacOs users, please install `Xcode` if you have an issue.
 
 
 
 - Run the demo apps (being at the repository root):
         streamlit run app.py
 
- - Go to your browser at the following address :
+- Go to your browser at the following address :
         
-      https://huggingface.co/spaces/FKBaffour/Streamlit_App_for_Sales_Forecasting
+      https://huggingface.co/spaces/FKBaffour/FKBaffour/Streamlit-App-for-Titanic-Survival-Prediction
         
 ## Screenshots
 

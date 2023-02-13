@@ -22,9 +22,9 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 
         streamlit run app.py
 
-- Go to your browser at the following address :
+- You can access the hosted app on Huggingface spaces at the link below :
         
-      ![click here](https://huggingface.co/spaces/FKBaffour/Streamlit-App-for-Titanic-Survival-Prediction)
+    [click here](https://huggingface.co/spaces/FKBaffour/Streamlit-App-for-Titanic-Survival-Prediction)
         
 ## Screenshots
 
@@ -42,4 +42,4 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 </table>
 
 ## Author:
-![FK Baffour](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
+[FK Baffour](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)

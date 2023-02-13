@@ -24,7 +24,7 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 
 - Go to your browser at the following address :
         
-      https://huggingface.co/spaces/FKBaffour/FKBaffour/Streamlit-App-for-Titanic-Survival-Prediction
+      https://huggingface.co/spaces/FKBaffour/Streamlit-App-for-Titanic-Survival-Prediction
         
 ## Screenshots
 

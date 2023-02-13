@@ -19,6 +19,7 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 
 
 - Run the demo apps (being at the repository root):
+
         streamlit run app.py
 
 - Go to your browser at the following address :

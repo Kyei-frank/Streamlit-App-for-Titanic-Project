@@ -34,9 +34,9 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
         <th>After Prediction</th>
     </tr>
     <tr>
-        <td><img src="./screenshots/1.png"/></td>
-        <td><img src="./screenshots/2.png"/></td>
-        <td><img src="./screenshots/3.png"/></td>
+        <td><img src="./imsges/screen3.png"/></td>
+        <td><img src="./images/screen1.png"/></td>
+        <td><img src="./images/screen2.png"/></td>
     </tr>
 </table>
 

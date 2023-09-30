@@ -4,7 +4,7 @@ In this project, I built a web App with a user-friendly interface to embed my ML
 
 ### Manual Setup
 
-For manual installation, you need to have [`Python3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's `root :: Streamlit-App-for-Titanic-Project> ...`  follow the steps below:
+For manual installation, you need to have [`Python3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's `root: Streamlit-App-for-Titanic-Project> `  follow the steps below:
 
 - Windows:
         
